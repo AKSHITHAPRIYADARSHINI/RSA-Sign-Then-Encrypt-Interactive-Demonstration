@@ -58,7 +58,6 @@ Ensure **Add Python to PATH** is selected during installation.
 Windows:
 Win + R → type: cmd → Enter
 
-r
 Copy code
 
 ### **3. Navigate to the Script Location**
